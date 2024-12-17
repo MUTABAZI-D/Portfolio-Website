@@ -57,6 +57,16 @@ const projectsData = [
   },
   {
     id: 6,
+    title: "Calculator App",
+    description:
+      "A basic calculator that supports essential arithmetic operations.",
+    image: "images/projects/calculator-app.png",
+    tag: ["All", "Mobile"],
+    gitUrl: "https://github.com/MUTABAZI-D/Calculator",
+    previewUrl: "https://calculator-cal.vercel.app/",
+  },
+  {
+    id: 7,
     title: "News App",
     description:
       "An app for browsing the latest news across multiple categories.",
@@ -66,7 +76,7 @@ const projectsData = [
     previewUrl: "https://github.com/MUTABAZI-D/News-App",
   },
   {
-    id: 7,
+    id: 8,
     title: "Fitness Tracker App",
     description: "An app to track workouts and monitor fitness progress.",
     image: "images/projects/Fitness-app.png",
